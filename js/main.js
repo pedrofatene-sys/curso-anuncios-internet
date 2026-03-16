@@ -39,7 +39,7 @@ const channels = [
     { id: 'mguoigdg-oc', name: 'Ganhe R$6 mil em anúncios e uma consultoria' },
     { id: 'dBVJbuJCHic', name: '6 dicas para um copy de qualidade' },
     { id: 'WHii2KYcPHE', name: 'Analisando campanhas do Facebook' },
-    { id: 'y2kfg8t84F0', name: 'Você pode ganhar R$3 mil em campanha' },
+    { id: 'y2kfg8t84F0', name: 'Você pode ganhar R$3 mil em campanha' }
 ];
 
 // Estado atual
